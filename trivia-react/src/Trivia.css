@@ -3,7 +3,7 @@ button{
     border-style: none;
     width: 30%;
     font-size: 1rem;
-   
+
 }
 
 body{
@@ -14,7 +14,6 @@ body{
     background-color: white;
     height: 50px;
     border: 5px solid rgb(197, 214, 98);
-    border-radius: 10px;
-    
-    
+    border-radius: 10px; 
+      
 }

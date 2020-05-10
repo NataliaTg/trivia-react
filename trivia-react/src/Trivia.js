@@ -34,7 +34,7 @@ class Trivia extends React.Component {
     //         this.setState({data: resJSON})
     //     })
   }
-
+  //Manejamos evento onClick
   nextQuestionHandler = () => {
     this.setState({
       currentQuestion: this.state.currentQuestion + 1
